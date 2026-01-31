@@ -1,5 +1,10 @@
+@font-face {
+  font-family: 'Candy Planet';
+  src: url('@/assets/Candy Planet.ttf') format('truetype');
+}
+
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Candy Planet;
   line-height: 1.5;
   font-weight: 400;
 

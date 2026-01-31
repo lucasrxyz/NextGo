@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Candy Planet';
+  src: url('../assets/Candy Planet.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.v-application {
+  font-family: 'Candy Planet', sans-serif;
+  background-color: #010205 !important;
+}
+* {
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}
+
+html {
+  scrollbar-width: none;
+}
+
