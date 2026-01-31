@@ -18,7 +18,6 @@
       <span class="dots" v-if="!isTyping">{{ dots }}</span>
     </span>
   </div>
-    
 </template>
 
 <script>
